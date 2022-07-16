@@ -1,5 +1,5 @@
 # Machine Learning Lab
-> Exploring meachine learning techniques and algorithms. Including clustering algorithms, perceptron and natural language processing.
+> Exploring meachine learning techniques and algorithms. Including clustering algorithms and, more.
 
 
 # Contents
